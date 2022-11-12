@@ -2,5 +2,5 @@
 Использование #CoreData #MVC
 
 <div id="header" align="center">
-  <img src="https://github.com/Pechorinka/Pechorinka/blob/main/diplom.jpg"/>
+  <img src="https://github.com/Pechorinka/ToDoCoreData/blob/main/screen.png"/>
 </div>
